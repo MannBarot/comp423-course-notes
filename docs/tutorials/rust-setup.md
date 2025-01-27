@@ -1,6 +1,7 @@
 # Setting up a dev container for Rust
 
-* Primary author: Mann Barot (https://www.github.com/MannBarot)
+* Primary author: [Mann Barot](https://www.github.com/MannBarot)
+* Reviewer: [Daniel Zhang](https://www.github.com/D123aniel)
 
 ## Rust
 
